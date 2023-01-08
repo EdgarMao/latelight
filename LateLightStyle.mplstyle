@@ -1,0 +1,10 @@
+font.size : 16
+lines.linewidth : 3.0
+savefig.facecolor : white
+axes.labelsize :16
+xtick.direction : in
+xtick.top : True
+xtick.minor.visible : True
+ytick.direction : in
+ytick.right : True
+ytick.minor.visible : True
